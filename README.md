@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Como me encontrar
-- [LinkedIn](www.linkedin.com/in/joaopedrofiuza)
+- [LinkedIn](https://www.linkedin.com/in/joaopedrofiuza)
 
 - [E-mail](mailto:jpfwilges@gmail.com)  
 
