@@ -1,6 +1,6 @@
 # Olá, eu sou o João 👋
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas | Programador em evolução  
+💻 Estudante de Desenvolvimento de Sistemas | Programador em evolução  
 
 🚀 Explorando tecnologias, resolvendo problemas com código e sempre aprendendo algo novo  
 
