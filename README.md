@@ -1,28 +1,54 @@
-# Olá, eu sou o João 👋
+# 👋 Olá, eu sou João Pedro
 
-💻 Estudante de Desenvolvimento de Sistemas | Programador em evolução  
+### 💻 Estudante de Desenvolvimento de Sistemas | Desenvolvedor em evolução
 
-🚀 Explorando tecnologias, resolvendo problemas com código e sempre aprendendo algo novo  
+Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha experiência na área de tecnologia através de estudos e projetos práticos.
 
----
-
-## 🛠 Tecnologias e ferramentas
-- **Linguagens:** Python, Java, JavaScript   
-- **Ferramentas:** Git, GitHub, VS Code  
-- **Outros:** HTML, CSS, React  
+Tenho interesse em **desenvolvimento de software, aplicações web e resolução de problemas utilizando programação**. Estou sempre buscando aprender novas tecnologias e transformar conhecimento em projetos reais.
 
 ---
 
-## 📊 Estatísticas de GitHub
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPedroFiuza&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroFiuza&layout=compact&theme=tokyonight) 
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Desenvolvimento de Sistemas**
+- 💻 Focado em desenvolvimento de software
+- 🌐 Interesse em desenvolvimento Web
+- 📚 Sempre aprendendo e aprimorando minhas habilidades
+- 🧠 Gosto de transformar problemas em soluções através do código
+- 🚀 Buscando evoluir constantemente como desenvolvedor
 
 ---
 
-## 📫 Como me encontrar
+## 🛠️ Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrofiuza)  [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrofiuza@gmail.com)
+### 💻 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### 🌐 Desenvolvimento Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-> "Transformando café em código desde 2025 ☕💻"
+## 📚 Atualmente estudando
+
+```text
+Desenvolvimento de Software
+        │
+        ├── 🐍 Python
+        ├── ☕ Java
+        ├── ⚡ JavaScript
+        ├── ⚛️ React
+        ├── 🌐 HTML & CSS
+        └── 🔧 Git & GitHub
